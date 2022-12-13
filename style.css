@@ -64,7 +64,7 @@ header {
 }
 
 .button {
-Padding:.7rem;
+ margin-bottom:3rem;
   width:50%;
   background-color: black;
   color: white;
