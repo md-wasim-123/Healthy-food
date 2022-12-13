@@ -64,6 +64,7 @@ header {
 }
 
 .button {
+  width:50%;
   background-color: black;
   color: white;
 }
